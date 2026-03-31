@@ -1,0 +1,8 @@
+streamlit>=1.32.0
+opencv-python-headless>=4.9.0
+easyocr>=1.7.1
+Pillow>=10.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+torch>=2.0.0
+torchvision>=0.15.0
